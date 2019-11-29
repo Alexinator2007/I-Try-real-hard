@@ -1,0 +1,34 @@
+add 1x1 <b>
+add 1x1 <b>
+add 1x1 <b>
+
+add 1x1 <y>
+add 1x1 <y>
+add 1x1 <y>
+
+add 1x1 <r>
+add 1x1 <r>
+add 1x1 <r>
+
+print <German Flag>
+
+background </white>
+
+
+add 1x1 <r>
+add 1x1 <w>
+add 1x1 <bl>
+
+add 1x1 <r>
+add 1x1 <w>
+add 1x1 <bl>
+
+print <French Flag
+
+<g> = <green> 
+<b> = <black>
+<r> = <red>
+<y> = <yellow>
+<w> = <white>
+<bl> = <blue>
+
